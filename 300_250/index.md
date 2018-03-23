@@ -23,8 +23,8 @@
   <body>
 	<!-- copy these lines to your document: -->
 
-	<div id="300250_hype_container" style="margin:auto;position:relative;width:300px;height:600px;overflow:hidden;">
-		<script type="text/javascript" charset="utf-8" src="300_250.hyperesources/300250_hype_generated_script.js?60074"></script>
+	<div id="300250_hype_container" style="margin:auto;position:relative;width:300px;height:250px;overflow:hidden;">
+		<script type="text/javascript" charset="utf-8" src="300_250.hyperesources/300250_hype_generated_script.js?92983"></script>
 	</div>
 
 	<!-- end copy -->
@@ -35,6 +35,7 @@
 
 	<div style="display:none" aria-hidden=true>
 
+		<div></div>
 
 	</div>
 
